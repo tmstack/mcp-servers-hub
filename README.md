@@ -1,4 +1,8 @@
-Explore MCP Servers and Clients
+# Explore MCP Servers and Clients
+
+This platform is your centralized gateway to exploring, implementing, and innovating with the Model Context Protocol (MCP).
+
+https://mcphub.tools
 
 ## MCP Clients  
 | Name | Author | Description | Stars | Tags |
